@@ -15,7 +15,7 @@
 
 ## Competitive Programming
 
-- [LeetCode](https://leetcode.com/) profile: [adhithya_l](https://leetcode.com/adhithya_l/) | **Contest rating**: 1665\*
+- [LeetCode](https://leetcode.com/) profile: [adhithya_l](https://leetcode.com/adhithya_l/) | **Contest rating**: 1875\*
 - [CodeChef](https://www.codechef.com/) profile: [adhithya_l]((https://www.codechef.com/users/adhithya_l/)) | **2\* Coder**
 
 
