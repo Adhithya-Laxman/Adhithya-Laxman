@@ -24,6 +24,7 @@
 
 - **LinkedIn:** [Adhithya Laxman](https://www.linkedin.com/in/adhithya-laxman-672696225/)
 - **Email:** adhithyarg26@gmail.com
+- **Portfolio:** [Adhithya Laxman](https://adhithya-laxman.github.io/Portfolio/)
 - **Instagram:** [@adhithya_ravishankar](https://www.instagram.com/adhithya_ravishankar/)
 - **Twitter:** [@AdhithyaLaxman](https://twitter.com/AdhithyaLaxman)
 
