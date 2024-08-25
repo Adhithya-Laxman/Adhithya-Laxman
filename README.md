@@ -10,19 +10,19 @@
 - **Web Development:** Flask Framework, HTML, CSS
 - **Machine Learning:** TensorFlow
 - **Version Control:** Git/GitHub
-- **Operating Systems:** Windows, Linux (Ubuntu)
+- **Operating Systems:** Windows, Linux (Ubuntu), Mac OS
 - **Database Management:** MySQL, MongoDB, PostgreSQL
 
 ## Competitive Programming
 
-- [LeetCode](https://leetcode.com/) profile: [adhithya_l](https://leetcode.com/adhithya_l/) | **Contest rating**: 1875\*
+- [LeetCode](https://leetcode.com/) profile: [adhithya_l](https://leetcode.com/adhithya_l/) | **Contest rating**: 1989\*
 - [CodeChef](https://www.codechef.com/) profile: [adhithya_l]((https://www.codechef.com/users/adhithya_l/)) | **2\* Coder**
 
 
 ## Reach out to me
 
 
-- **LinkedIn:** [Adhithya Laxman](https://www.linkedin.com/in/adhithya-laxman-672696225/)
+- **LinkedIn:** [Adhithya Laxman](https://www.linkedin.com/in/adhithya-laxman/)
 - **Email:** adhithyarg26@gmail.com
 - **Portfolio:** [Adhithya Laxman](https://adhithya-laxman.github.io/Portfolio/)
 - **Instagram:** [@adhithya_ravishankar](https://www.instagram.com/adhithya_ravishankar/)
