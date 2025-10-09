@@ -1,7 +1,7 @@
 # About Me
 
 👋 Hi, I’m Adhithya Laxman R G.  
-🎓 I'm a Computer Science Engineering student with a passion for developing creative solutions to complex problems. I'm particularly drawn towards Machine-learning and Deep learning designing end-to-end pipelined Neural Networks as well while my passion for problem solving knows no bounds.  
+🎓 I'm a Master's Data Science student at ETH Zurich with a passion for developing creative solutions to complex problems. I'm particularly drawn towards Machine-learning and Deep learning designing end-to-end pipelined Neural Networks as well while my passion for problem solving knows no bounds.  
 👀 Competetive Programming and Problem Solving Enthusiast.
 
 ## Skills
