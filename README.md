@@ -91,20 +91,12 @@ Distributed Systems  Data Engineering       Production AI
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhithya-Laxman&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Adhithya's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithya-Laxman&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=html,css" alt="Adhithya's most used languages" />
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithya-Laxman)
+[![Repositories](https://img.shields.io/badge/Public%20Work-Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithya-Laxman?tab=repositories)
+[![Pull Requests](https://img.shields.io/badge/Open%20Source-Pull%20Requests-8957E5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AAdhithya-Laxman)
+[![Contributions](https://img.shields.io/badge/Contribution%20Graph-GitHub%20Profile-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithya-Laxman)
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Adhithya-Laxman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhithya-Laxman&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%28Public%20%2B%20Private%20When%20Enabled%29" alt="Contribution graph" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adhithya-Laxman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+Live contribution details are available directly on my GitHub profile.
 
 </div>
 
