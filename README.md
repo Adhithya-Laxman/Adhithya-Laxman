@@ -1,72 +1,145 @@
-<!-- Header -->
-<h1 align="center">Hey, I'm Adhithya Laxman 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>MSc Data Science @ ETH Zurich &nbsp;·&nbsp; Computer Vision & 3D Reconstruction &nbsp;·&nbsp; Deep Learning &nbsp;·&nbsp; MLOps</em>
-</p>
+# Hi, I'm Adhithya Laxman R G
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adhithya-laxman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://adhithya-laxman.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"/></a>&nbsp;
-  <a href="mailto:adhithyarg26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://leetcode.com/adhithya_l/"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%202020+-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-</p>
+### ETH Zurich MSc Data Science | Software Engineering | Computer Vision | 3D Reconstruction | ML Systems
+
+I build production-minded AI systems with research depth across computer vision, 3D reconstruction, retrieval, edge AI, and data-heavy engineering.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://adhithya-laxman.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhithya%20Laxman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithya-laxman)
+[![GitHub](https://img.shields.io/badge/GitHub-Adhithya--Laxman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithya-Laxman)
+[![Email](https://img.shields.io/badge/Email-adhithyarg26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithyarg26@gmail.com)
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a first-year MSc Data Science student at ETH Zurich, currently doing research at the **Computer Vision and Geometry Group (CVG)** on 3D reconstruction for in-the-wild indoor videos — working with transformer-based models like DUSt3R, MASt3R, and DAV3 to improve robustness where classical SfM methods fail.
+I am an MSc Data Science student at ETH Zurich, currently working across computer vision, 3D reconstruction, autonomous perception, and applied AI engineering. My experience spans research pipelines, edge deployment, MLOps, DevOps automation, data infrastructure, and open-source contributions.
 
-Before ETH, I completed my B.E. in Computer Science at Coimbatore Institute of Technology (top 2% of class) and a Diploma in Data Science at IIT Madras — both in parallel. I've interned at **Caterpillar Inc.** (monocular depth estimation for autonomous trucks), **Akamai Technologies** (DevOps/ETL at scale), and **Samsung R&D** (generative models).
-
-I genuinely enjoy hard ML problems — whether that's getting a model to run on edge hardware, figuring out why a vision transformer fails on certain inputs, or building systems that hold up at scale.
+- Researching robust indoor 3D reconstruction at ETH Zurich's Computer Vision and Geometry Group.
+- Built monocular depth-estimation systems for autonomous truck perception at Caterpillar.
+- Built billion-record ETL and observability pipelines at Akamai.
+- Led federated learning and GAN-based research projects with published and award-winning outcomes.
+- Open-source contributor to `TheAlgorithms/Python`, a 180k+ star repository.
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-- 🔬 **ETH CVG Research** — Benchmarking ViT-based 3D reconstruction models (DUSt3R, MASt3R, DAV3); building hybrid SfM pipelines with COLMAP; multi-GPU training on Euler HPC
-- 🧠 **VLM Mechanistic Interpretability** — Analyzing attention mechanisms in Qwen 3-4B across synthetic datasets to understand relational reasoning limitations ([GitHub](https://github.com/xandaaaa/Investigating-relational-reasoning-in-VLMs/tree/main/synthetic_dataset_generation))
+```text
+Computer Vision      3D Reconstruction      Edge AI
+Retrieval + RAG      Multimodal VLMs        MLOps
+Distributed Systems  Data Engineering       Production AI
+```
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python · C++ · Java · C · SQL · Shell Script
+### Languages
 
-**ML & Frameworks:** PyTorch · TensorFlow · ONNX · Scikit-learn · NumPy · Pandas · Flask · Django
-
-**Focus Areas:** Computer Vision · 3D Reconstruction · Transformers · Edge AI · NLP · RAG · Multimodal (Vision-Language) · Distributed Systems
-
-**Tools:** Docker · Git · Jenkins · Azure DevOps · Kubernetes · AWS S3 · GCP · ClickHouse · PostgreSQL · MongoDB · Grafana · Linux
-
----
-
-## Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Federated IDS — DBN](https://github.com/Adhithya-Laxman/IDS-For-WiFi-using-Federated-DBN-RBM) | Privacy-preserving WiFi intrusion detection with federated learning — 98% accuracy on 300k+ samples. **Springer 2025** 🏆 | PyTorch · Go · gRPC · FedAvg |
-| [VLM Relational Reasoning](https://github.com/xandaaaa/Investigating-relational-reasoning-in-VLMs/tree/main/synthetic_dataset_generation) | Mechanistic interpretability of Qwen 3-4B across 4 synthetic datasets — ablation, activation patching, circuit analysis | PyTorch · CLEVR · ChartQA |
-| [Doc-Chat RAG](https://github.com/Adhithya-Laxman/Doc-Chat---A-chatbot-for-PDFs) | End-to-end RAG pipeline for PDF Q&A, summarization, and quiz generation | Flask · ChromaDB · LLM |
-| [Music Streaming App](https://github.com/Adhithya-Laxman/Music-Streaming-Application) | Full-stack streaming app with auth, playlists, and search | Flask · SQLAlchemy |
-
----
-
-## Highlights
-
-- 📄 **Springer 2025** — Accepted paper: FEDDBN-IDS: Federated Deep Belief Network for Intrusion Detection
-- 🏆 **LeetCode Knight** — Top 2.5% globally (Rating 2020+)
-- 🥇 Winner — Internal Smart India Hackathon 2023 (1/16 teams)
-- 🥈 2nd place — Innovision24 Hackathon (2/48 teams)
-- 🔢 **A. John Wilson Endowment Prize** — Highest mark in Mathematics across departments
-- 🌐 Open-source contributor to [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) (180k+ ⭐)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adhithya-Laxman&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithya-Laxman&layout=compact&theme=default&hide_border=true" height="150"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,bash,js,html,css" alt="Languages" />
 </p>
+
+### ML, AI, and Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas" alt="ML and data tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/COLMAP-111827?style=for-the-badge&logo=opengl&logoColor=white" alt="COLMAP" />
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Vision-Language Models" />
+</p>
+
+### Backend, Cloud, and Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,django,postgres,mongodb,docker,kubernetes,aws,gcp,azure,jenkins,git,linux,grafana" alt="Backend, cloud, and infrastructure" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+</p>
+
+---
+
+## Selected Work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Relational Reasoning in VLMs](https://github.com/xandaaaa/Investigating-relational-reasoning-in-VLMs/tree/main/synthetic_dataset_generation) | Studies cross-modal attention, shortcut learning, activation patching, probing, and relational reasoning in Qwen-based VLMs. | PyTorch, Qwen, CLEVR, ChartQA |
+| [Federated IDS with DBNs](https://github.com/Adhithya-Laxman/IDS-For-WiFi-using-Federated-DBN-RBM) | Privacy-preserving WiFi intrusion detection with federated training on 300k+ sensor records and 98% accuracy. | PyTorch, gRPC, Federated Learning |
+| [Doc-Chat](https://github.com/Adhithya-Laxman/Doc-Chat---A-chatbot-for-PDFs) | PDF chatbot with ingestion, semantic chunking, vector indexing, grounded Q&A, summarization, and quiz generation. | Flask, RAG, ChromaDB |
+| [Blood Connect](https://github.com/Adhithya-Laxman/Blood_bank) | Blood donation management system with donor records, requests, and PostgreSQL-backed workflows. | PostgreSQL, Web App |
+| [Lyric Lullaby](https://github.com/Adhithya-Laxman/Music-Streaming-Application) | Music streaming app with authentication, playlist management, search, and relational data modeling. | Flask, SQLAlchemy |
+| [Handwriting Letter Classification](https://github.com/Adhithya-Laxman/Image_classification) | Feed-forward neural network for handwritten character recognition with 90%+ EMNIST accuracy. | Neural Networks, EMNIST |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhithya-Laxman&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Adhithya's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhithya-Laxman&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=html,css" alt="Adhithya's most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Adhithya-Laxman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhithya-Laxman&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%28Public%20%2B%20Private%20When%20Enabled%29" alt="Contribution graph" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adhithya-Laxman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## Experience Snapshot
+
+| Role | Organization | Highlights |
+| --- | --- | --- |
+| Research Student | ETH Zurich CVG | 3D reconstruction for in-the-wild indoor video, HouseTour, COLMAP, DUSt3R, MASt3R, DAV3. |
+| Software Engineer Intern | Caterpillar Inc. | Monocular depth estimation for autonomous truck perception, 50k+ images, edge AI optimization. |
+| Software Engineer Intern | Akamai Technologies | Jenkins ETL pipelines, Hive, ClickHouse, Grafana, billion-record daily processing. |
+| Research Intern | Samsung R&D Institute PRISM | Conditional GANs for video sequence generation, 0.97 SSIM, team leadership. |
+
+---
+
+## Recognition
+
+- Accepted Springer 2025 paper: `FEDDBN-IDS` for federated intrusion detection on heterogeneous WiFi networks.
+- LeetCode Knight, top 2.5% globally with 2020+ rating.
+- Winner, Internal Smart India Hackathon 2023.
+- 2nd place, Innovision24 Hackathon among 48 teams.
+- A. John Wilson Endowment Prize for highest Mathematics score across departments.
+- Samsung PRISM Excellence Certificate.
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I am always happy to talk about computer vision, ML systems, 3D reconstruction, research ideas, and engineering roles.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adhithya--laxman.github.io%2FPortfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adhithya-laxman.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithya-laxman)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithyarg26@gmail.com)
+
+</div>
