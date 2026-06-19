@@ -17,13 +17,12 @@ I build production-minded AI systems with research depth across computer vision,
 
 ## About Me
 
-I am an MSc Data Science student at ETH Zurich, currently working across computer vision, 3D reconstruction, autonomous perception, and applied AI engineering. My experience spans research pipelines, edge deployment, MLOps, DevOps automation, data infrastructure, and open-source contributions.
+I am an MSc Data Science student at ETH Zurich, currently working across computer vision, 3D reconstruction, autonomous perception, and applied AI engineering. My experience includes research pipelines, edge deployment, MLOps, DevOps automation, data infrastructure, and open-source contributions.
 
 - Researching robust indoor 3D reconstruction at ETH Zurich's Computer Vision and Geometry Group.
 - Built monocular depth-estimation systems for autonomous truck perception at Caterpillar.
 - Built billion-record ETL and observability pipelines at Akamai.
 - Led federated learning and GAN-based research projects with published and award-winning outcomes.
-- Open-source contributor to `TheAlgorithms/Python`, a 180k+ star repository.
 
 ---
 
@@ -33,6 +32,7 @@ I am an MSc Data Science student at ETH Zurich, currently working across compute
 Computer Vision      3D Reconstruction      Edge AI
 Retrieval + RAG      Multimodal VLMs        MLOps
 Distributed Systems  Data Engineering       Production AI
+Deployment Infrastructure
 ```
 
 ---
